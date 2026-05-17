@@ -1,10 +1,8 @@
 #让用户随意输入两个数字，调用方法都可以算和
 from unittest import result
-
-
-# def add(a=int(input('请输入a的值')),b=int(input('请输入b的值')),c=int(input('请输入c的值'))):
-#     return a+b+c
-# print(add())
+def add(a=int(input('请输入a的值')),b=int(input('请输入b的值')),c=int(input('请输入c的值'))):
+    return a+b+c
+print(add())
 
 def hhh(a,b,c):
     '''
