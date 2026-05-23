@@ -13,7 +13,7 @@ print(kiu7)
 # split方法
 ki7=my_str.split(' ')
 print(ki7)
-# strip方法 不传入参数 就是取出收尾空格
+# strip方法 不传入参数 就是取出首位空格
 ki5=my_str.strip()
 print(ki5)
 my_str='72a ds daad27'
